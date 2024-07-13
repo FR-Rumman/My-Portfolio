@@ -155,7 +155,13 @@
  .download-cv{
    text-align: center;
  }
-
+footer{
+   display: flex;
+   background: #fff8f3;
+}
+.footer-colum{
+   width: 50%;
+}
 
 
 
